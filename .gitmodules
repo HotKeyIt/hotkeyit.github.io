@@ -1,6 +1,6 @@
 [submodule "v1"]
 	path = v1
-	url = https://github.com/Lexikos/AutoHotkey_L-Docs.git
+	url = https://github.com/HotKeyIt/AutoHotkey_H-Docs.git
 [submodule "v2"]
 	path = v2
-	url = https://github.com/Lexikos/AutoHotkey_L-Docs.git
+	url = https://github.com/HotKeyIt/AutoHotkey_H-Docs.git
